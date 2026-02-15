@@ -1,4 +1,4 @@
-# [hiztin] | Beginer Backend & ML Engineer
+# <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=hiztin" alt="Typing SVG" /> | Beginer Backend & ML Engineer
 
 ### 👋 Hi there     
 ![](https://count.getloli.com/@hiztin?name=hiztin&theme=rule34&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto&num=666)
