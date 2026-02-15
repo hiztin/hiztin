@@ -1,7 +1,7 @@
 # [hiztin] | Beginer Backend & ML Engineer
 
 ### 👋 Hi there     
-[![:name](https://count.getloli.com/@hiztin)](https://count.getloli.com/@666?name=666&theme=random&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=1)
+[[![:name](https://count.getloli.com/@hiztin)](https://count.getloli.com/@666?name=666&theme=random&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=1)](https://count.getloli.com/@hiztin?name=hiztin&theme=rule34&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto&num=666)
 
 # Stack:
 **Backend & Core:**
@@ -23,6 +23,6 @@
 *   Почта: pavelrog315@gmail.com
 
 ### 📈 GitHub Activity Graph:
-![](https://komarev.com/ghpvc/?username=your-github-username)
+
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
