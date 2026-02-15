@@ -22,9 +22,5 @@
 *   Почта: pavelrog315@gmail.com
 
 ### 📈 GitHub Activity Graph:
-
+![Jokes Card](https://readme-jokes.vercel.app/api)
 ![hiztin](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
-
-<div class="tenor-gif-embed" data-postid="15864843384314381596" data-share-method="host" data-aspect-ratio="1.02326" data-width="100%"><a href="https://tenor.com/view/gato-lengua-gif-15864843384314381596">Gato Lengua Meme</a>from <a href="https://tenor.com/search/gato-memes">Gato Memes</a>
-  </div> <script type="text/javascript" async src="https://tenor.com/embed.js">    
-  </script>
