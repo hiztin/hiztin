@@ -23,4 +23,5 @@
 
 ### 📈 GitHub Activity Graph:
 ![](https://komarev.com/ghpvc/?username=your-github-username)
+
 ![Jokes Card](https://readme-jokes.vercel.app/api)
