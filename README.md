@@ -1,6 +1,6 @@
 # [hiztin] | Beginer Backend & ML Engineer
 
-### 👋 Hi there ![:name](https://count.getloli.com/@:hiztin)
+### 👋 Hi there ![:name](https://count.getloli.com/@hiztin)
 
 # Stack:
 **Backend & Core:**
