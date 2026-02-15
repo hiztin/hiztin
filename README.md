@@ -25,5 +25,4 @@
 
 ![hiztin](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
-![](https://images-ext-1.discordapp.net/external/Olkt3qUkWRXq5TmizmkIHLHUKElSVOQsGsmaG7d_upM/https/media.tenor.com/1EwNf1_27Q0AAAPo/seiun-sky-sieun-fish.gif)
-<img src="video.mp4" width="auto">
+![]([https://images-ext-1.discordapp.net/external/Olkt3qUkWRXq5TmizmkIHLHUKElSVOQsGsmaG7d_upM/https/media.tenor.com/1EwNf1_27Q0AAAPo/seiun-sky-sieun-fish.gif](https://tenor.com/ru/view/gato-lengua-gif-15864843384314381596))
