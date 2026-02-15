@@ -20,7 +20,7 @@
 ________________________________
 
 ### 👋 Hi there,     
-![](https://count.getloli.com/@hiztin?name=hiztin&theme=miku&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)
+![](https://count.getloli.com/@hiztin?name=hiztin&theme=yousa_ling&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)
 
 **Backend:**
 
