@@ -3,9 +3,11 @@
 ![](https://img.shields.io/badge/Windows_11-0078D4?style=for-the-badge&logo=windows-11&logoColor=white)
 ![](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 ![](https://img.shields.io/badge/iPhone_15-000000?style=for-the-badge&logo=apple&logoColor=white)
+
 ![](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=21D789)
 ![](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![](https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=webstorm&logoColor=00C7B7)
+
 ![](https://img.shields.io/badge/DataGrip-000000?style=for-the-badge&logo=database&logoColor=00C7B7)
 ![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
