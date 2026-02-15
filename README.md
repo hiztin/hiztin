@@ -23,6 +23,7 @@
 
 ### 📈 GitHub Activity Graph:
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![hiztin](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 ![](https://images-ext-1.discordapp.net/external/Olkt3qUkWRXq5TmizmkIHLHUKElSVOQsGsmaG7d_upM/https/media.tenor.com/1EwNf1_27Q0AAAPo/seiun-sky-sieun-fish.gif)
+<img src="[ссылка.gif](https://images-ext-1.discordapp.net/external/Olkt3qUkWRXq5TmizmkIHLHUKElSVOQsGsmaG7d_upM/https/media.tenor.com/1EwNf1_27Q0AAAPo/seiun-sky-sieun-fish.mp4)" width="auto">
