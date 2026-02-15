@@ -46,5 +46,3 @@ ________________________________
 <div align="center">
   <img width="120%" src="https://github-readme-streak-stats.herokuapp.com/?user=hiztin&theme=tokyonight&hide_border=true"/>
 </div>
-
-![Jokes Card](https://readme-jokes.vercel.app/api)
