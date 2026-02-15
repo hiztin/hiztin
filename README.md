@@ -25,4 +25,4 @@
 
 ![hiztin](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
-![]([https://images-ext-1.discordapp.net/external/Olkt3qUkWRXq5TmizmkIHLHUKElSVOQsGsmaG7d_upM/https/media.tenor.com/1EwNf1_27Q0AAAPo/seiun-sky-sieun-fish.gif](https://tenor.com/ru/view/gato-lengua-gif-15864843384314381596))
+<div class="tenor-gif-embed" data-postid="15864843384314381596" data-share-method="host" data-aspect-ratio="1.02326" data-width="100%"><a href="https://tenor.com/view/gato-lengua-gif-15864843384314381596">Gato Lengua Meme</a>from <a href="https://tenor.com/search/gato-memes">Gato Memes</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
