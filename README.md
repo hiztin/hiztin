@@ -14,7 +14,7 @@
 ________________________________
 
 ### 👋 Hi there     
-![](https://count.getloli.com/@hiztin?name=hiztin&theme=rule34&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto&num=666)
+![](https://count.getloli.com/@hiztin?name=hiztin&theme=random&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)
 # Stack:
 **Backend & Core:**
 
