@@ -1,8 +1,4 @@
-# <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=45&duration=2000&pause=500&color=FF6B6B&center=true&vCenter=true&width=500&lines=hiztin;hiztin;hiztin" alt="hiztin" />
-</p>
-<p align="center">
-</p> | Beginer Backend & ML Engineer
+
 
 ![](https://img.shields.io/badge/Windows_11-0078D4?style=for-the-badge&logo=windows-11&logoColor=white)
 ![](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
