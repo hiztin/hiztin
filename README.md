@@ -19,6 +19,7 @@ ________________________________
 
 ### 👋 Hi there,     
 ![](https://count.getloli.com/@hiztin?name=hiztin&theme=random&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)
+
 # Stack:
 **Backend:**
 
@@ -43,7 +44,7 @@ ________________________________
 
 ### 📈 GitHub Activity Graph:
 <div align="center">
-  <img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=hiztin&theme=tokyonight&hide_border=true"/>
+  <img width="120%" src="https://github-readme-streak-stats.herokuapp.com/?user=hiztin&theme=tokyonight&hide_border=true"/>
 </div>
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
