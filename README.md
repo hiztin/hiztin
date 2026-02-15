@@ -18,4 +18,4 @@
 
 **I also know how to work with databases.**
 
-![](https://github-profile-trophy.vercel.app/?username=твой_ник&theme=onedark)(https://github.com/hiztin)
+![](https://github-profile-trophy.vercel.app/?username=твой_ник&theme=onedark)https://github.com/hiztin
