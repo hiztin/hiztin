@@ -25,19 +25,18 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
-!([ссылка_на_гифку.gif](https://images-ext-1.discordapp.net/external/Olkt3qUkWRXq5TmizmkIHLHUKElSVOQsGsmaG7d_upM/https/media.tenor.com/1EwNf1_27Q0AAAPo/seiun-sky-sieun-fish.mp4))
+![](https://images-ext-1.discordapp.net/external/Olkt3qUkWRXq5TmizmkIHLHUKElSVOQsGsmaG7d_upM/https/media.tenor.com/1EwNf1_27Q0AAAPo/seiun-sky-sieun-fish.mp4)
 
-Карточка профиля: 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=daniilshat&theme=solarized_dark)
 
-Статистика языков в коммитах:
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=daniilshat&theme=solarized_dark)
 
-Статистика языков в репозиториях:
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=daniilshat&theme=solarized_dark)
 
-Статистика профиля:
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=daniilshat&theme=solarized_dark)
 
-Данные по коммитам за сутки:
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=daniilshat&theme=solarized_dark)
