@@ -22,5 +22,5 @@
 *   Почта: pavelrog315@gmail.com
 
 ### 📈 GitHub Activity Graph:
+![](https://komarev.com/ghpvc/?hiztin=your-github-username)
 ![Jokes Card](https://readme-jokes.vercel.app/api)
-![hiztin](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
