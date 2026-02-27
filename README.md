@@ -39,7 +39,9 @@ ________________________________
 *   Discord: h1zz
 *   Почта: pavelrog315@gmail.com
 
-### 📈 GitHub Activity Graph:
+* TG: https://t.me/h1zzich
+
+  ## 📈 GitHub Activity Graph:
 <div align="center">
   <img width="120%" src="https://github-readme-streak-stats.herokuapp.com/?user=hiztin&theme=tokyonight&hide_border=true"/>
 </div>
