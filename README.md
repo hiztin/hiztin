@@ -39,7 +39,7 @@ ________________________________
 *   Discord: h1zz
 *   Почта: pavelrog315@gmail.com
 
-* TG: https://t.me/h1zzich
+* TG: https://t.me/histeenn
 
   ## 📈 GitHub Activity Graph:
 <div align="center">
