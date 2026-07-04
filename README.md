@@ -37,7 +37,7 @@ ________________________________
 
 ### 📫 How to contact me:
 *   Discord: h1zz
-*   Почта: pavelrog315@gmail.com
+*   Почта: histeenn@proton.me
 
 * TG: https://t.me/histeenn
 
